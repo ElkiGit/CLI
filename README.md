@@ -34,7 +34,7 @@ The project has two main commands:
 
 ```bash
 dotnet run bundle --output "output.txt" --language "cs,txt" --note --sort "name" --remove-empty-line --author "John Doe"
-
+```
 
 ### This Command Will:
 
